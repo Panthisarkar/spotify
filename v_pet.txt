@@ -1,1 +1,1 @@
-this is our project of a virtual pet. 
+this is our project of a virtual pet. Hello
